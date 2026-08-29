@@ -282,7 +282,7 @@
     <string name="wifi_hotspot_unblock_client_dialog_text">\"<xliff:g id="device_name">%1$s</xliff:g>\" 기기가 이 핫스팟에 연결할 수 있게 됩니다</string>
     <string name="wifi_hotspot_client_manager_footer_text">표시할 기기가 없습니다. 연결된 기기와 차단된 기기가 여기에 표시됩니다.</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">아이콘 관리자</string>
+    <string name="icon_manager_title">상태 표시줄</string>
     <string name="icon_manager_summary">상태 표시줄 아이콘의 표시 여부를 설정합니다</string>
     <!-- Notch: Full screen apps -->
     <string name="display_cutout_force_fullscreen_title">전체 화면 앱</string>
