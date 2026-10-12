@@ -50,13 +50,6 @@
     <string name="action_notifications_name">Показати сповіщення</string>
     <string name="action_flashlight_name">Увімкнути або вимкнути ліхтарик</string>
     <string name="action_launch_name">Відкрити додаток</string>
-    <string name="action_screenshot_value">скріншот</string>
-    <string name="action_assistant_value">асистент</string>
-    <string name="action_media_value">медіа</string>
-    <string name="action_overview_value">огляд</string>
-    <string name="action_notifications_value">сповіщення</string>
-    <string name="action_flashlight_value">ліхтарик</string>
-    <string name="action_launch_value">запустити</string>
     <!-- Actions meta -->
     <!-- Toast -->
     <string name="gesture_detected">Виявлено подвійний дотик.</string>
