@@ -29,7 +29,7 @@
     <string name="accessibility_quick_settings_live_display_outdoor">动态色温：户外模式。</string>
     <string name="accessibility_quick_settings_live_display_changed_off">已关闭动态色温。</string>
     <string name="accessibility_quick_settings_live_display_changed_auto">动态色温已切换为自动模式。</string>
-    <string name="accessibility_quick_settings_live_display_changed_day">LiveDisplay 已切换为白天模式。</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">LiveDisplay 已切换为日间模式。</string>
     <string name="accessibility_quick_settings_live_display_changed_night">动态色温已切换为夜间模式。</string>
     <string name="accessibility_quick_settings_live_display_changed_outdoor">动态色温已切换为户外模式。</string>
     <!-- Health interface -->

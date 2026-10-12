@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Paranoid 传感器</string>
     <!-- Enroll activity -->
-    <string name="face_enroll_title">请将你的面部正对手机</string>
+    <string name="face_enroll_title">请将您的面部正对摄像头</string>
     <string name="face_enroll_description">保持设备静止，并确保您处于光线充足的环境中</string>
     <!-- Try Again activity -->
     <string name="face_try_again_title">无法捕捉您的脸部</string>
@@ -16,5 +16,5 @@
     <string name="unlock_failed_face_large">人脸距离太近</string>
     <string name="unlock_failed_face_multi">检测到多个人脸</string>
     <string name="unlock_failed_face_not_complete">仅检测到部分人脸</string>
-    <string name="unlock_failed_face_small">人脸距离过远</string>
+    <string name="unlock_failed_face_small">面部距离过远</string>
 </resources>
