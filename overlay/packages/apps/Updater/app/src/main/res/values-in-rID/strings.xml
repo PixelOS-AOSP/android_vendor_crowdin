@@ -98,19 +98,6 @@
     <string name="menu_ab_perf_mode_summary_charging">Diaktifkan otomatis saat mengisi daya dengan listrik AC</string>
     <string name="menu_update_recovery">Perbarui recovery</string>
     <string name="menu_update_recovery_summary">Perbarui partisi recovery bersama OS</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">Tidak diketahui</string>
-    <string name="certified_prop_status">Status properti tersertifikasi</string>
-    <string name="certified_prop_check">Periksa pembaruan</string>
-    <string name="certified_prop_checking">Memeriksa pembaruan properti tersertifikasi</string>
-    <string name="certified_prop_downloading">Mengunduh pembaruan properti tersertifikasi</string>
-    <string name="certified_prop_download_failed">Tidak dapat mengambil properti dari server</string>
-    <string name="certified_prop_available">Unduh dan pasang</string>
-    <string name="certified_prop_install_success">Reboot untuk menerapkan pembaruan</string>
-    <string name="certified_prop_install_failed">Gagal memasang</string>
-    <string name="certified_prop_invalid_package">Paket yang diunduh tidak valid</string>
-    <string name="certified_prop_info" formatted="false">Versi terpasang: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Versi terbaru: %s</string>
     <string name="snack_updates_found">Pembaruan baru ditemukan</string>
     <string name="snack_no_updates_found">Tidak ada pembaruan baru</string>
     <string name="snack_download_failed">Unduhan gagal. Periksa koneksi internet Anda dan coba lagi nanti.</string>

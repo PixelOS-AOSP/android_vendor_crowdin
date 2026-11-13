@@ -98,19 +98,6 @@
     <string name="menu_ab_perf_mode_summary_charging">Automatisch ingeschakeld tijdens opladen via netstroom</string>
     <string name="menu_update_recovery">Recovery bijwerken</string>
     <string name="menu_update_recovery_summary">Recovery-partitie samen met het besturingssysteem bijwerken</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">Onbekend</string>
-    <string name="certified_prop_status">Status van gecertificeerde eigenschappen</string>
-    <string name="certified_prop_check">Controleren op update</string>
-    <string name="certified_prop_checking">Controleren op update van gecertificeerde eigenschappen</string>
-    <string name="certified_prop_downloading">Update van gecertificeerde eigenschappen downloaden</string>
-    <string name="certified_prop_download_failed">Kan eigenschappen niet van de server ophalen</string>
-    <string name="certified_prop_available">Downloaden en installeren</string>
-    <string name="certified_prop_install_success">Start opnieuw op om de update toe te passen</string>
-    <string name="certified_prop_install_failed">Installatie mislukt</string>
-    <string name="certified_prop_invalid_package">Gedownload pakket is ongeldig</string>
-    <string name="certified_prop_info" formatted="false">Geïnstalleerde versie: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Nieuwste versie: %s</string>
     <string name="snack_updates_found">Nieuwe updates gevonden</string>
     <string name="snack_no_updates_found">Geen nieuwe updates gevonden</string>
     <string name="snack_download_failed">De download is mislukt. Controleer je internetverbinding en probeer het later opnieuw.</string>

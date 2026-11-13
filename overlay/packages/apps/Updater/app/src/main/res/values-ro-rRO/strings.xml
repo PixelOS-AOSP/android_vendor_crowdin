@@ -98,19 +98,6 @@
     <string name="menu_ab_perf_mode_summary_charging">Activat automat în timpul încărcării la priză</string>
     <string name="menu_update_recovery">Actualizează recovery</string>
     <string name="menu_update_recovery_summary">Actualizează partiția recovery împreună cu sistemul de operare</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">Necunoscută</string>
-    <string name="certified_prop_status">Starea proprietăților certificate</string>
-    <string name="certified_prop_check">Caută actualizări</string>
-    <string name="certified_prop_checking">Se caută actualizări ale proprietăților certificate</string>
-    <string name="certified_prop_downloading">Se descarcă actualizarea proprietăților certificate</string>
-    <string name="certified_prop_download_failed">Nu s-au putut prelua proprietățile de pe server</string>
-    <string name="certified_prop_available">Descarcă și instalează</string>
-    <string name="certified_prop_install_success">Repornește pentru a aplica actualizarea</string>
-    <string name="certified_prop_install_failed">Instalarea a eșuat</string>
-    <string name="certified_prop_invalid_package">Pachetul descărcat este nevalid</string>
-    <string name="certified_prop_info" formatted="false">Versiune instalată: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Ultima versiune: %s</string>
     <string name="snack_updates_found">S-au găsit actualizări noi</string>
     <string name="snack_no_updates_found">Nu s-au găsit actualizări noi</string>
     <string name="snack_download_failed">Descărcarea a eșuat. Verifică-ți conexiunea la internet și încearcă din nou mai târziu.</string>

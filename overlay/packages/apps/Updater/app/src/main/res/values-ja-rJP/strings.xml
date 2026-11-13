@@ -98,19 +98,6 @@
     <string name="menu_ab_perf_mode_summary_charging">AC 電源で充電中は自動的に有効になります</string>
     <string name="menu_update_recovery">リカバリーを更新</string>
     <string name="menu_update_recovery_summary">OS と一緒にリカバリー パーティションも更新します</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">不明</string>
-    <string name="certified_prop_status">認証済みプロパティの状態</string>
-    <string name="certified_prop_check">アップデートを確認</string>
-    <string name="certified_prop_checking">認証済みプロパティのアップデートを確認しています</string>
-    <string name="certified_prop_downloading">認証済みプロパティのアップデートをダウンロードしています</string>
-    <string name="certified_prop_download_failed">サーバーからプロパティを取得できません</string>
-    <string name="certified_prop_available">ダウンロードしてインストール</string>
-    <string name="certified_prop_install_success">再起動してアップデートを適用してください</string>
-    <string name="certified_prop_install_failed">インストールに失敗しました</string>
-    <string name="certified_prop_invalid_package">ダウンロードしたパッケージが無効です</string>
-    <string name="certified_prop_info" formatted="false">インストール済みバージョン: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">最新バージョン: %s</string>
     <string name="snack_updates_found">新しいアップデートが見つかりました</string>
     <string name="snack_no_updates_found">新しいアップデートはありません</string>
     <string name="snack_download_failed">ダウンロードに失敗しました。インターネット接続を確認して、後でもう一度お試しください。</string>

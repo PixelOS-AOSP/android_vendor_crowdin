@@ -139,9 +139,6 @@
     <!-- Status bar -->
     <string name="icon_manager_title">แถบสถานะ</string>
     <!-- Notch: Full screen apps -->
-    <!-- Keybox Data -->
-    <!-- Pif Data -->
-    <!-- Spoofing toggle -->
     <!-- Screenshot shutter -->
     <!-- Global Actions -->
     <!-- Three-fingers-swipe to screenshot -->
@@ -179,4 +176,5 @@
     <string name="software_update_up_to_date_header">Pixel ของคุณเป็นเวอร์ชันล่าสุด</string>
     <string name="software_update_up_to_specific_date_summary">อัปเดตถึงวันที่ %1$s</string>
     <string name="system_update_entry_title">การอัปเดตระบบ</string>
+    <!-- Spoofing -->
 </resources>

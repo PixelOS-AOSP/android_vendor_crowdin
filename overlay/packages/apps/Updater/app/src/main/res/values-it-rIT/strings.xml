@@ -98,19 +98,6 @@
     <string name="menu_ab_perf_mode_summary_charging">Attivato automaticamente durante la ricarica da rete elettrica</string>
     <string name="menu_update_recovery">Aggiorna la recovery</string>
     <string name="menu_update_recovery_summary">Aggiorna la partizione recovery insieme al sistema operativo</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">Sconosciuta</string>
-    <string name="certified_prop_status">Stato delle proprietà certificate</string>
-    <string name="certified_prop_check">Verifica aggiornamenti</string>
-    <string name="certified_prop_checking">Verifica aggiornamenti delle proprietà certificate</string>
-    <string name="certified_prop_downloading">Download dell\'aggiornamento delle proprietà certificate</string>
-    <string name="certified_prop_download_failed">Impossibile recuperare le proprietà dal server</string>
-    <string name="certified_prop_available">Scarica e installa</string>
-    <string name="certified_prop_install_success">Riavvia per applicare l\'aggiornamento</string>
-    <string name="certified_prop_install_failed">Installazione non riuscita</string>
-    <string name="certified_prop_invalid_package">Il pacchetto scaricato non è valido</string>
-    <string name="certified_prop_info" formatted="false">Versione installata: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Ultima versione: %s</string>
     <string name="snack_updates_found">Trovati nuovi aggiornamenti</string>
     <string name="snack_no_updates_found">Nessun nuovo aggiornamento trovato</string>
     <string name="snack_download_failed">Il download non è riuscito. Controlla la connessione a internet e riprova più tardi.</string>

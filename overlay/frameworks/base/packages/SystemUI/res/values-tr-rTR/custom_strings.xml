@@ -68,7 +68,7 @@
     <string name="screenrecord_skip_time_label">Zamanlayıcıyı atla</string>
     <string name="screenrecord_skip_time_summary">3 saniyelik beklemeyi kaldırın</string>
     <string name="screenrecord_hevc_switch_label">HEVC kodlayıcı</string>
-    <string name="screenrecord_hevc_switch_summary">Daha verimli HEVC kodlayıcıyı kullanın</string>
+    <string name="screenrecord_hevc_switch_summary">Daha verimli HEVC kodlayıcısını kullanın</string>
     <!-- Label for UI element which allows deleting the screenshot [CHAR LIMIT=30] -->
     <string name="screenshot_delete_label">Sil</string>
     <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->

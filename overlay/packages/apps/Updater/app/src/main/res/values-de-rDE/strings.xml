@@ -98,19 +98,6 @@
     <string name="menu_ab_perf_mode_summary_charging">Wird beim Laden am Netzteil automatisch aktiviert</string>
     <string name="menu_update_recovery">Recovery aktualisieren</string>
     <string name="menu_update_recovery_summary">Recovery-Partition zusammen mit dem Betriebssystem aktualisieren</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">Unbekannt</string>
-    <string name="certified_prop_status">Status der zertifizierten Eigenschaften</string>
-    <string name="certified_prop_check">Nach Update suchen</string>
-    <string name="certified_prop_checking">Suche nach Update für zertifizierte Eigenschaften</string>
-    <string name="certified_prop_downloading">Update für zertifizierte Eigenschaften wird heruntergeladen</string>
-    <string name="certified_prop_download_failed">Eigenschaften konnten nicht vom Server abgerufen werden</string>
-    <string name="certified_prop_available">Herunterladen und installieren</string>
-    <string name="certified_prop_install_success">Neu starten, um das Update anzuwenden</string>
-    <string name="certified_prop_install_failed">Installation fehlgeschlagen</string>
-    <string name="certified_prop_invalid_package">Heruntergeladenes Paket ist ungültig</string>
-    <string name="certified_prop_info" formatted="false">Installierte Version: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Neueste Version: %s</string>
     <string name="snack_updates_found">Neue Updates gefunden</string>
     <string name="snack_no_updates_found">Keine neuen Updates gefunden</string>
     <string name="snack_download_failed">Der Download ist fehlgeschlagen. Bitte überprüfe deine Internetverbindung und versuche es später noch einmal.</string>

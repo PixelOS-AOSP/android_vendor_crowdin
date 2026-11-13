@@ -96,19 +96,6 @@
     <string name="menu_ab_perf_mode_summary_charging">Activar automáticamente durante la carga con cargador</string>
     <string name="menu_update_recovery">Actualizar recovery</string>
     <string name="menu_update_recovery_summary">Actualizar partición de recuperación junto con el sistema operativo</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">Desconocido</string>
-    <string name="certified_prop_status">Estado de propiedades certificadas</string>
-    <string name="certified_prop_check">Buscar actualizaciones</string>
-    <string name="certified_prop_checking">Comprobando la actualización de propiedades certificadas</string>
-    <string name="certified_prop_downloading">Descargando actualización de propiedades certificadas</string>
-    <string name="certified_prop_download_failed">No se pueden obtener las propiedades del servidor</string>
-    <string name="certified_prop_available">Descargar e instalar</string>
-    <string name="certified_prop_install_success">Reiniciar para aplicar actualizaciones</string>
-    <string name="certified_prop_install_failed">Error al instalar</string>
-    <string name="certified_prop_invalid_package">El paquete descargado no es válido</string>
-    <string name="certified_prop_info" formatted="false">Versión instalada: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Última versión: %s</string>
     <string name="snack_updates_found">Se encontraron nuevas actualizaciones</string>
     <string name="snack_no_updates_found">No se han encontrado nuevas actualizaciones</string>
     <string name="snack_download_failed">La descarga falló. Por favor, comprueba tu conexión a internet e inténtalo de nuevo más tarde.</string>

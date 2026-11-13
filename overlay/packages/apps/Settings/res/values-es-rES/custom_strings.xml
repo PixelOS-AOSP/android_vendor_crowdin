@@ -290,15 +290,6 @@
     <string name="app_list_search">Buscar</string>
     <string name="app_list_search_apps">Buscar aplicaciones</string>
     <string name="app_list_loading">Cargando aplicaciones\u2026</string>
-    <!-- Keybox Data -->
-    <string name="keybox_data_title">Configurar keybox XML</string>
-    <string name="keybox_data_summary">Configurar la falsificación de la clave en todo el sistema. Pulse Eliminar para restablecer los valores predeterminados.</string>
-    <!-- Pif Data -->
-    <string name="pif_data_title">Configurar PIF JSON</string>
-    <string name="pif_data_summary">Configurar PIF JSON usado para suplantar propiedades para GMS y Play Store. Pulse Eliminar para revertir a valores predeterminados dinámicos.</string>
-    <!-- Spoofing toggle -->
-    <string name="cert_overlay_title">Simular propiedades certificadas</string>
-    <string name="cert_overlay_summary">Simular propiedades certificadas PI a GMS\nRequiere un reinicio para aplicar</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Sonido de captura de pantalla</string>
     <!-- Global Actions -->
@@ -343,4 +334,5 @@
     <string name="software_update_up_to_date_header">Tu Pixel está actualizado</string>
     <string name="software_update_up_to_specific_date_summary">Actualización: %1$s</string>
     <string name="system_update_entry_title">Actualización del sistema</string>
+    <!-- Spoofing -->
 </resources>

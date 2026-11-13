@@ -140,9 +140,6 @@
     <!-- Status bar -->
     <string name="icon_manager_title">شريط الحالة</string>
     <!-- Notch: Full screen apps -->
-    <!-- Keybox Data -->
-    <!-- Pif Data -->
-    <!-- Spoofing toggle -->
     <!-- Screenshot shutter -->
     <!-- Global Actions -->
     <!-- Three-fingers-swipe to screenshot -->
@@ -180,4 +177,5 @@
     <string name="software_update_up_to_date_header">‏هاتف Pixel مُحدّث</string>
     <string name="software_update_up_to_specific_date_summary">‏تم تحديثه في ‎%1$s</string>
     <string name="system_update_entry_title">تحديث النظام</string>
+    <!-- Spoofing -->
 </resources>

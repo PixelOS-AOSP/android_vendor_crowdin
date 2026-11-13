@@ -98,19 +98,6 @@
     <string name="menu_ab_perf_mode_summary_charging">使用交流电源充电时自动启用</string>
     <string name="menu_update_recovery">更新 Recovery</string>
     <string name="menu_update_recovery_summary">更新恢复分区以及操作系统</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">未知</string>
-    <string name="certified_prop_status">认证属性状态</string>
-    <string name="certified_prop_check">检查更新</string>
-    <string name="certified_prop_checking">正在检查认证属性更新</string>
-    <string name="certified_prop_downloading">正在下载认证属性更新</string>
-    <string name="certified_prop_download_failed">无法从服务器获取属性</string>
-    <string name="certified_prop_available">下载并安装</string>
-    <string name="certified_prop_install_success">重启以应用更新</string>
-    <string name="certified_prop_install_failed">安装失败</string>
-    <string name="certified_prop_invalid_package">下载的软件包无效</string>
-    <string name="certified_prop_info" formatted="false">已安装的版本：%s\n</string>
-    <string name="certified_prop_remote" formatted="false">最新版本：%s</string>
     <string name="snack_updates_found">发现新的更新</string>
     <string name="snack_no_updates_found">无可用更新</string>
     <string name="snack_download_failed">下载更新失败。 请检查您的网络连接并稍后重试。</string>

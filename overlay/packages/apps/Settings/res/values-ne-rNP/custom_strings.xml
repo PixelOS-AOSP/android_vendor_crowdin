@@ -70,9 +70,6 @@
     <!-- Status bar -->
     <string name="icon_manager_title">स्ट्याटस बार</string>
     <!-- Notch: Full screen apps -->
-    <!-- Keybox Data -->
-    <!-- Pif Data -->
-    <!-- Spoofing toggle -->
     <!-- Screenshot shutter -->
     <!-- Global Actions -->
     <!-- Three-fingers-swipe to screenshot -->
@@ -80,4 +77,5 @@
     <!-- Locale Picker -->
     <!-- Expressive QR -->
     <!-- System Updates -->
+    <!-- Spoofing -->
 </resources>

@@ -98,19 +98,6 @@
     <string name="menu_ab_perf_mode_summary_charging">Включати автоматично коли телефон заряджається</string>
     <string name="menu_update_recovery">Обновити recovery</string>
     <string name="menu_update_recovery_summary">Оновити recovery з системою</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">Невідомий розмір тексту</string>
-    <string name="certified_prop_status">Статус сертифікату</string>
-    <string name="certified_prop_check">Перевірити наявність оновлень</string>
-    <string name="certified_prop_checking">Перевірити на оновлення сертифікату</string>
-    <string name="certified_prop_downloading">Завантаження оновлення сертифікату</string>
-    <string name="certified_prop_download_failed">Не можемо оновити сертифікат з серверу</string>
-    <string name="certified_prop_available">Закачати та встановити</string>
-    <string name="certified_prop_install_success">Перезапустити щоб активувати оновлення</string>
-    <string name="certified_prop_install_failed">Не вдалося встановити</string>
-    <string name="certified_prop_invalid_package">Завантажений сертифікат є не правильним</string>
-    <string name="certified_prop_info" formatted="false">Встановлені версії: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Остання версія: %s</string>
     <string name="snack_updates_found">Нові оновлення знайдено</string>
     <string name="snack_no_updates_found">Не знайдено нових оновлень</string>
     <string name="snack_download_failed">Завантаження провалено. Перевірте ваш інтернет і спробуйте знову.</string>

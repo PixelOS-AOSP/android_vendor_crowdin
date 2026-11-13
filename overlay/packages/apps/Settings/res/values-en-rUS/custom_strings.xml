@@ -69,9 +69,6 @@
     <!-- Hotspot -->
     <!-- Status bar -->
     <!-- Notch: Full screen apps -->
-    <!-- Keybox Data -->
-    <!-- Pif Data -->
-    <!-- Spoofing toggle -->
     <!-- Screenshot shutter -->
     <!-- Global Actions -->
     <!-- Three-fingers-swipe to screenshot -->
@@ -79,4 +76,5 @@
     <!-- Locale Picker -->
     <!-- Expressive QR -->
     <!-- System Updates -->
+    <!-- Spoofing -->
 </resources>

@@ -83,9 +83,6 @@
     <!-- Status bar -->
     <string name="icon_manager_title">Bar status</string>
     <!-- Notch: Full screen apps -->
-    <!-- Keybox Data -->
-    <!-- Pif Data -->
-    <!-- Spoofing toggle -->
     <!-- Screenshot shutter -->
     <!-- Global Actions -->
     <!-- Three-fingers-swipe to screenshot -->
@@ -109,4 +106,5 @@
     <string name="software_update_up_to_date_header">Pixel anda telah dikemaskinikan</string>
     <string name="software_update_up_to_specific_date_summary">Dikemaskinikan pada %1$s</string>
     <string name="system_update_entry_title">Kemaskinian sistem</string>
+    <!-- Spoofing -->
 </resources>

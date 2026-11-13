@@ -38,6 +38,7 @@
     <string name="setting_app_selection_help_text" product="tablet">タブレットの背面を 2 回タップしたときに開くアプリを選択します。アプリをアンインストールすると、別のアプリを選択するまでクイックタップは無効になります。</string>
     <string name="setting_app_selection_help_text_disabled">この機能を使用するには、まずクイックタップを有効にしてください。</string>
     <string name="setting_app_shortcut_selection_help_text">クイックタップを使用してこのアプリを開いたときのアクションを選択してください。</string>
+    <string name="setting_app_shortcut_selection_help_text_disabled">@string/setting_app_selection_help_text_disabled</string>
     <string name="radio_button_extra_widget_a11y_label">「<xliff:g id="action">%1$s</xliff:g>」の設定</string>
     <string name="setting_action_launch_summary_no_selection">アプリが選択されていません</string>
     <string name="setting_action_launch_summary_not_installed">アプリがインストールされていません</string>

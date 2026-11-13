@@ -97,19 +97,6 @@ Vui lòng chạy các lệnh sau và thử cập nhật lại:\n
     <string name="menu_ab_perf_mode_summary_charging">Tự động bật khi đang sạc bằng nguồn AC</string>
     <string name="menu_update_recovery">Cập nhật Recovery</string>
     <string name="menu_update_recovery_summary">Cập nhật phân vùng recovery cùng với hệ điều hành</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">Không rõ</string>
-    <string name="certified_prop_status">Trạng thái thuộc tính đã chứng nhận</string>
-    <string name="certified_prop_check">Kiểm tra cập nhật</string>
-    <string name="certified_prop_checking">Đang kiểm tra bản cập nhật thuộc tính đã chứng nhận</string>
-    <string name="certified_prop_downloading">Đang tải bản cập nhật thuộc tính đã chứng nhận</string>
-    <string name="certified_prop_download_failed">Không thể lấy thuộc tính từ máy chủ</string>
-    <string name="certified_prop_available">Tải xuống và cài đặt</string>
-    <string name="certified_prop_install_success">Khởi động lại để cài đặt bản cập nhật</string>
-    <string name="certified_prop_install_failed">Cài đặt không thành công</string>
-    <string name="certified_prop_invalid_package">Gói đã tải không hợp lệ</string>
-    <string name="certified_prop_info" formatted="false">Phiên bản đã cài đặt：%s\n</string>
-    <string name="certified_prop_remote" formatted="false">Phiên bản mới nhất: %s</string>
     <string name="snack_updates_found">Đã tìm thấy bản cập nhật mới</string>
     <string name="snack_no_updates_found">Không tìm thấy bản cập nhật mới</string>
     <string name="snack_download_failed">Tải xuống không thành công. Vui lòng kiểm tra kết nối internet của bạn và thử lại sau.</string>

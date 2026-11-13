@@ -40,6 +40,8 @@
     <!-- Sync QS tile -->
     <!-- USB tethering QS tile -->
     <!-- VPN QS tile -->
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">\u2026కి కనెక్ట్ చేయి </string>
     <!-- Screen record -->
     <!-- Label for UI element which allows deleting the screenshot [CHAR LIMIT=30] -->
     <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->

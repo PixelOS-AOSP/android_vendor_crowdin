@@ -98,19 +98,6 @@
     <string name="menu_ab_perf_mode_summary_charging">Activé automatiquement lors de la charge sur secteur</string>
     <string name="menu_update_recovery">Mettre à jour la recovery</string>
     <string name="menu_update_recovery_summary">Mettre à jour la partition recovery en même temps que le système</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">Inconnue</string>
-    <string name="certified_prop_status">État des propriétés certifiées</string>
-    <string name="certified_prop_check">Rechercher une mise à jour</string>
-    <string name="certified_prop_checking">Recherche de mise à jour des propriétés certifiées</string>
-    <string name="certified_prop_downloading">Téléchargement de la mise à jour des propriétés certifiées</string>
-    <string name="certified_prop_download_failed">Impossible de récupérer les propriétés depuis le serveur</string>
-    <string name="certified_prop_available">Télécharger et installer</string>
-    <string name="certified_prop_install_success">Redémarrez pour appliquer la mise à jour</string>
-    <string name="certified_prop_install_failed">Échec de l’installation</string>
-    <string name="certified_prop_invalid_package">Le paquet téléchargé n’est pas valide</string>
-    <string name="certified_prop_info" formatted="false">Version installée : %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Dernière version : %s</string>
     <string name="snack_updates_found">Nouvelles mises à jour trouvées</string>
     <string name="snack_no_updates_found">Aucune nouvelle mise à jour trouvée</string>
     <string name="snack_download_failed">Le téléchargement a échoué. Vérifiez votre connexion Internet et réessayez plus tard.</string>

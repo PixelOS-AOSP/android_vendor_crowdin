@@ -43,6 +43,7 @@
         ]]></string>
     <string name="dialog_scratch_mounted_title">Не удаётся установить обновление при смонтированной файловой системе OverlayFS</string>
     <string name="reboot">Перезагрузка</string>
+    <string name="menu_preferences">Настройки</string>
     <string name="preferences_summary">Поиск, скачивание и установка</string>
     <!-- System update screen -->
     <string name="system_up_to_date_title">Система обновлена</string>
@@ -97,19 +98,6 @@
     <string name="menu_ab_perf_mode_summary_charging">Включается автоматически при питании от сети</string>
     <string name="menu_update_recovery">Обновить режим восстановления</string>
     <string name="menu_update_recovery_summary">Обновлять Recovery вместе с системой</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">Неизвестно</string>
-    <string name="certified_prop_status">Статус сертифицированных параметров</string>
-    <string name="certified_prop_check">Проверить обновления</string>
-    <string name="certified_prop_checking">Проверка обновлений сертифицированных параметров</string>
-    <string name="certified_prop_downloading">Загрузка обновлений сертифицированных параметров</string>
-    <string name="certified_prop_download_failed">Не удалось получить параметры с сервера</string>
-    <string name="certified_prop_available">Загрузить и установить</string>
-    <string name="certified_prop_install_success">Перезапустите, чтобы применить обновление</string>
-    <string name="certified_prop_install_failed">Не удалось установить обновление</string>
-    <string name="certified_prop_invalid_package">Скачанный пакет поврежден</string>
-    <string name="certified_prop_info" formatted="false">Установленная версия: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Последняя версия: %s</string>
     <string name="snack_updates_found">Найдены новые обновления</string>
     <string name="snack_no_updates_found">Новые обновления не найдены</string>
     <string name="snack_download_failed">Загрузка не удалась. Пожалуйста, проверьте подключение к интернету и попробуйте позже.</string>

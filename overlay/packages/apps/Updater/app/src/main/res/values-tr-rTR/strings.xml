@@ -98,19 +98,6 @@ Lütfen aşağıdaki komutları çalıştırın ve güncellemeyi tekrar deneyin.
     <string name="menu_ab_perf_mode_summary_charging">Prizde şarj olurken otomatik olarak etkinleştirilir</string>
     <string name="menu_update_recovery">Kurtarma modunu güncelle</string>
     <string name="menu_update_recovery_summary">Recovery bölümünü işletim sistemiyle birlikte güncelle</string>
-    <string name="play_integrity_header">Bütünlük sertifikası</string>
-    <string name="text_download_size_unknown">Bilinmeyen</string>
-    <string name="certified_prop_status">Sertifikalı özellik durumu</string>
-    <string name="certified_prop_check">Güncellemeleri denetle</string>
-    <string name="certified_prop_checking">Sertifikalı özellikler güncellemesi kontrol ediliyor</string>
-    <string name="certified_prop_downloading">Sertifikalı özellik güncellemesi indiriliyor</string>
-    <string name="certified_prop_download_failed">Sunucudan özellikler alınamıyor</string>
-    <string name="certified_prop_available">İndir ve yükle</string>
-    <string name="certified_prop_install_success">Güncellemeyi uygulamak için yeniden başlat</string>
-    <string name="certified_prop_install_failed">Yükleme Başarısız</string>
-    <string name="certified_prop_invalid_package">İndirilen paket geçersiz</string>
-    <string name="certified_prop_info" formatted="false">Yüklü sürüm: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Son versiyon: %s</string>
     <string name="snack_updates_found">Yeni güncellemeler bulundu</string>
     <string name="snack_no_updates_found">Yeni güncelleme bulunamadı</string>
     <string name="snack_download_failed">İndirme başarısız oldu. Lütfen internet bağlantınızı kontrol edin ve daha sonra tekrar deneyin.</string>

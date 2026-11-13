@@ -98,19 +98,6 @@ Uruchom następujące polecenia i ponów próbę aktualizacji:\n
     <string name="menu_ab_perf_mode_summary_charging">Włączono automatycznie podczas ładowania</string>
     <string name="menu_update_recovery">Aktualizacja trybu odzyskiwania</string>
     <string name="menu_update_recovery_summary">Aktualizuj tryb odzyskiwania wraz z systemem operacyjnym</string>
-    <string name="play_integrity_header">Play Integrity</string>
-    <string name="text_download_size_unknown">Nieznana</string>
-    <string name="certified_prop_status">Status certyfikowanych właściwości</string>
-    <string name="certified_prop_check">Sprawdź dostępność aktualizacji</string>
-    <string name="certified_prop_checking">Sprawdzanie aktualizacji certyfikowanych właściwości</string>
-    <string name="certified_prop_downloading">Pobieranie aktualizacji certyfikowanych właściwości</string>
-    <string name="certified_prop_download_failed">Nie udało się pobrać właściwości z serwera</string>
-    <string name="certified_prop_available">Pobierz i zainstaluj</string>
-    <string name="certified_prop_install_success">Uruchom ponownie, aby zastosować aktualizację</string>
-    <string name="certified_prop_install_failed">Nie udało się zainstalować</string>
-    <string name="certified_prop_invalid_package">Pobrany pakiet jest nieprawidłowy</string>
-    <string name="certified_prop_info" formatted="false">Zainstalowana wersja: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Najnowsza wersja: %s</string>
     <string name="snack_updates_found">Znaleziono aktualizację systemu</string>
     <string name="snack_no_updates_found">Nie znaleziono nowych aktualizacji</string>
     <string name="snack_download_failed">Pobieranie nieudane. Sprawdź połączenie sieciowe i spróbuj ponownie później.</string>

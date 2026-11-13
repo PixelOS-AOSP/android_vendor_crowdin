@@ -97,19 +97,6 @@
     <string name="menu_ab_perf_mode_summary_charging">Automaticky zapnuté počas nabíjania zo siete</string>
     <string name="menu_update_recovery">Aktualizovať recovery</string>
     <string name="menu_update_recovery_summary">Aktualizovať oddiel recovery spolu so systémom</string>
-    <string name="play_integrity_header">Play Integrita</string>
-    <string name="text_download_size_unknown">Neuvedené</string>
-    <string name="certified_prop_status">Stav certifikácie</string>
-    <string name="certified_prop_check">Skontrolovať aktualizácie</string>
-    <string name="certified_prop_checking">Kontrola aktualizácie certifikácie</string>
-    <string name="certified_prop_downloading">Preberanie aktualizácie certifikácie</string>
-    <string name="certified_prop_download_failed">Nie je možné získať certifikáciu zo servera</string>
-    <string name="certified_prop_available">Stiahnuť a nainštalovať</string>
-    <string name="certified_prop_install_success">Reštartovať pre dokončenie aktualizácie</string>
-    <string name="certified_prop_install_failed">Inštalácia zlyhala</string>
-    <string name="certified_prop_invalid_package">Stiahnutý balík je neplatný</string>
-    <string name="certified_prop_info" formatted="false">Nainštalovaná verzia: %s\n</string>
-    <string name="certified_prop_remote" formatted="false">Posledná verzia: %s</string>
     <string name="snack_updates_found">Našli sa nové aktualizácie</string>
     <string name="snack_no_updates_found">Nenašli sa žiadne nové aktualizácie</string>
     <string name="snack_download_failed">Sťahovanie zlyhalo. Skontrolujte vaše pripojenie a skúste to znovu.</string>
