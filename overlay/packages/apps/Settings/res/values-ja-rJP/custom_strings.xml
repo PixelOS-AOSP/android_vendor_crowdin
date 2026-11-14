@@ -335,4 +335,54 @@
     <string name="software_update_up_to_specific_date_summary">%1$sに更新しました</string>
     <string name="system_update_entry_title">システム アップデート</string>
     <!-- Spoofing -->
+    <string name="spoofing_title">偽装</string>
+    <string name="spoofing_summary">Play Integrity、デバイスID、アプリのオーバーライド</string>
+    <string name="spoofing_integrity_category">整合性</string>
+    <string name="spoofing_identity_category">デバイスID</string>
+    <string name="spoofing_app_specific_category">アプリごとの上書き</string>
+    <string name="tricky_store_title">認証</string>
+    <string name="tricky_store_summary">認証のためのキーボックスとターゲットアプリ</string>
+    <string name="play_integrity_fix_title">Play Integrityの修正</string>
+    <string name="play_integrity_fix_summary">DroidGuardに提供されるフィンガープリントおよびビルド関連フィールド</string>
+    <string name="spoofing_pixel_props_title">Pixel プロパティ偽装</string>
+    <string name="spoofing_pixel_props_summary">選択したアプリをPixelとして偽装する</string>
+    <string name="spoofing_photos_title">Googleフォト</string>
+    <string name="spoofing_photos_summary">Googleフォトを Pixel XL として偽装します</string>
+    <string name="spoofing_reset_defaults_title">デフォルトに戻す</string>
+    <string name="spoofing_reset_defaults_dialog_title">偽装の設定をリセットしますか？</string>
+    <string name="spoofing_reset_defaults_dialog_message">これにより、Play Integrity設定およびセキュリティパッチのオーバーライドが消去され、ターゲットリストがデフォルトの状態に戻ります。キーボックスおよび有効化スイッチの設定は保持されます。</string>
+    <string name="spoofing_reset_defaults_confirm">リセット</string>
+    <string name="spoofing_reset_defaults_done">偽装の設定をリセットしました</string>
+    <string name="pif_no_config">構成は見つかりませんでした</string>
+    <string name="pif_active_model">有効: <xliff:g id="model" example="Pixel 6a">%1$s</xliff:g></string>
+    <string name="pif_fetch">Pixel フィンガープリントを取得</string>
+    <string name="pif_import">構成の入力</string>
+    <string name="pif_delete">設定を削除</string>
+    <string name="pif_delete_title">構成を削除しますか?</string>
+    <string name="pif_delete_message">保存されたフィンガープリントが削除されました。</string>
+    <string name="pif_imported">設定をインポートしました</string>
+    <string name="pif_fetched_model"><xliff:g id="model" example="Pixel 6a">%1$s</xliff:g> のフィンガープリントを取得しました</string>
+    <string name="pif_wipe_playstore_title">Playストアのデータを消去しますか？</string>
+    <string name="pif_wipe_playstore_message">このフィンガープリントを適用する際は、Play ストアのセッションを新たに開始した状態で行うのが最適です。今すぐPlay ストアのデータを消去しますか？これを行うと、サインアウトされ、ローカルキャッシュおよびダウンロードキューが消去されます。</string>
+    <string name="pif_wipe_confirm">データを消去</string>
+    <string name="pif_failed">失敗: <xliff:g id="error" example="timeout">%1$s</xliff:g></string>
+    <string name="pif_invalid_fingerprint">無効なフィンガープリント形式</string>
+    <string name="pif_no_devices">デバイスが見つかりません</string>
+    <string name="pif_select_device">デバイスを選択</string>
+    <string name="pif_recommended">推奨</string>
+    <string name="pif_advanced">高度な設定</string>
+    <string name="pif_spoof_build_title">ビルドフィールドを偽装する</string>
+    <string name="pif_spoof_build_summary">DroidGuardに指紋のビルドフィールドを提示する</string>
+    <string name="pif_spoof_props_title">システム情報を偽装する</string>
+    <string name="pif_spoof_props_summary">DroidGuardに指紋のビルドID、パッチ、および製品のアイデンティティを提示する</string>
+    <string name="pif_spoof_provider_title">キーストアプロバイダを偽装する</string>
+    <string name="pif_spoof_provider_summary">DroidGuardの証明書チェーン要求を失敗させる。キーボックスが使用されている場合は、この処理を行わない</string>
+    <string name="pif_spoof_signature_title">ROM署名を偽装する</string>
+    <string name="pif_spoof_signature_summary">DroidGuardに提示された実験的な署名</string>
+    <string name="pif_vending_finger_title">Playストアのフィンガープリント</string>
+    <string name="pif_vending_finger_summary">Playストアにも指紋を提示します。必要な場合以外はオフにしてください</string>
+    <string name="pif_vending_finger_custom">Play ストアのカスタムフィンガープリント: <xliff:g id="fingerprint" example="google/bluejay/...">%1$s</xliff:g></string>
+    <string name="pif_vending_sdk_title">Play ストア SDK を偽装する</string>
+    <string name="pif_vending_sdk_summary">PlayストアにはSDK 32を指定してください。実際のSDKバージョンより高い値を設定してはいけません。テスト時以外は設定しないでください</string>
+    <string name="pif_fields">フィンガープリントフィールド</string>
 </resources>
